@@ -3,13 +3,13 @@
    ============================================ */
 
 const phrases = [
-    "Bebuki, eres mi felicidad.",
+    "Rebeja, eres mi felicidad.",
     "Rebemonki, siempre tú.",
     "Rebeja, mi lugar favorito eres tú.",
     "Contigo, todo se siente bonito.",
     "Rebemonki, qué bonito es amarte.",
     "Te elegiría una y mil veces.",
-    "Bebuki, contigo estoy en casa. 🌙",
+    "Rebeca, contigo estoy en casa. 🌙",
     "Rebeja, tú haces bonito mi mundo.",
     "A tu lado, soy más fuerte.",
     "Para siempre y un día más.",
