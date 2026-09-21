@@ -3,17 +3,17 @@
    ============================================ */
 
 const phrases = [
-    "Eres mi sol.",
-    "Mi vida brilla contigo.",
-    "Mi lugar favorito es a tu lado.",
-    "Eres mi paz y mi locura.",
-    "Juntos somos magia.",
-    "Te elijo cada día.",
-    "Nuestro amor es mi refugio.",
-    "Cada día contigo es un regalo.",
+    "Bebuki, eres mi felicidad.",
+    "Rebemonki, siempre tú.",
+    "Rebeja, mi lugar favorito eres tú.",
+    "Contigo, todo se siente bonito.",
+    "Rebemonki, qué bonito es amarte.",
+    "Te elegiría una y mil veces.",
+    "Bebuki, contigo estoy en casa. 🌙",
+    "Rebeja, tú haces bonito mi mundo.",
     "A tu lado, soy más fuerte.",
     "Para siempre y un día más.",
-    "El mundo es perfecto contigo.",
+    "Eres mi persona favorita.",
     "A tu lado, todo florece."
 ];
 
